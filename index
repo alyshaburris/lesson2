@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html><head>
+<html>
+<head>
 	<title>first html page</title>
 </head>
 
@@ -14,7 +15,7 @@
 	<h2>Welcome page</h2>
 	<p>Welcome to the web development class.</p>
 	<p>This is IT 5443.</p>
-	<a href="#your-site-here">#your-site-here</a>
+	<a href="https://alyshaburris.github.io/index/">https://alyshaburris.github.io/index/</a>
 
 </div>
 
