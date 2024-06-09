@@ -4,14 +4,20 @@
 		<title>first html page</title>
 	</head>
 
+	#menu {
+	background-color: #FFB6C1
+	}
+	#body {
+	background-color:#FDF5E6
+	}
 	<body>
-	<div>
+	<div id="menu">
 	Menu: 
-	<a href="index.htm">Home</a> | 
-	<a href="schedule.htm">Schedule</a>
+	<a href="index.html">Home</a> | 
+	<a href="schedule.html">Schedule</a>
 	</div>
 
-
+	<div id="body">
 	<h2>Welcome page</h2>
 	<p>Welcome to the web development class.</p>
 	<p>This is IT 5443.</p>
