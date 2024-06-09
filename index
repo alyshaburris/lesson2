@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
+	<head>
 	<title>first html page</title>
-</head>
+	</head>
 
-<body>
-<div>
+	<body>
+	<div>
 	<div>Menu: 
 	<a href="index.htm">Home</a> | 
 	<a href="schedule.htm">Schedule</a>
@@ -17,7 +17,8 @@
 	<p>This is IT 5443.</p>
 	<a href="https://alyshaburris.github.io/index/">https://alyshaburris.github.io/index/</a>
 
-</div>
+	</div>
 
 
-</body></html>
+	</body>
+</html>
