@@ -1,21 +1,40 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>class schedule</title>
-</head>
+	<head>
+		<title>class schedule</title>
 
-<body>
-<div>
+		<style>
+			#menu {
+				background-color: #FFB6C1;
+				font-family: impact;
+				font-size: 2em;
+				max-width: 60em;
+			}
+	
+			#body {
+				background-color:#FDF5E6;
+				color: purple;
+				font-family: arial;
+				font-size: 2em;
+				text-align:center;
+				max-width: 60em;
+			}
+		</style>
+	</head>
+	<body>
+	<div id="menu">
 	<div>Menu: 
 	<a href="index.htm">Home</a> | 
 	<a href="schedule.htm">Schedule</a>
 	</div>
 
+	<div id=body>
 	<h2>Schedule</h2>
 	<ol>
 		<li>week 1: introduction</li>
 		<li>week ...: more here</li>
 	</ol>
-</div>
+	</div>
 
-</body></html>
+</body>
+</html>
