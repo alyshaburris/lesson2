@@ -2,14 +2,23 @@
 <html>
 	<head>
 		<title>first html page</title>
-	</head>
 
-	#menu {
-	background-color: #FFB6C1
-	}
-	#body {
-	background-color:#FDF5E6
-	}
+		<style>
+		#menu {
+			background-color: #FFB6C1;
+			font-family: impact;
+			font-size: 2em;
+		}
+	
+		#body {
+			background-color:#FDF5E6;
+			color: purple;
+			font-family: arial;
+			font-size: 2em;
+			text-align:center;
+		}
+		</style>
+	</head>
 	<body>
 	<div id="menu">
 	Menu: 
