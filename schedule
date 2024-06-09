@@ -4,14 +4,14 @@
 		<title>class schedule</title>
 
 		<style>
-			#menu {
+			#menu1 {
 				background-color: #FFB6C1;
 				font-family: impact;
 				font-size: 2em;
 				max-width: 60em;
 			}
 	
-			#body {
+			#body1 {
 				background-color:#FDF5E6;
 				color: purple;
 				font-family: arial;
@@ -22,13 +22,13 @@
 		</style>
 	</head>
 	<body>
-	<div id="menu">
+	<div id="menu1">
 	<div>Menu: 
 	<a href="index.html">Home</a> | 
 	<a href="schedule.html">Schedule</a>
 	</div>
 
-	<div id=body>
+	<div id=body1>
 	<h2>Schedule</h2>
 	<ol>
 		<li>week 1: introduction</li>
