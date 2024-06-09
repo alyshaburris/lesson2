@@ -24,8 +24,8 @@
 	<body>
 	<div id="menu">
 	<div>Menu: 
-	<a href="index.htm">Home</a> | 
-	<a href="schedule.htm">Schedule</a>
+	<a href="index.html">Home</a> | 
+	<a href="schedule.html">Schedule</a>
 	</div>
 
 	<div id=body>
@@ -36,5 +36,5 @@
 	</ol>
 	</div>
 
-</body>
+	</body>
 </html>
