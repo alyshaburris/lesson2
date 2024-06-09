@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>first html page</title>
+		<title>first html page</title>
 	</head>
 
 	<body>
 	<div>
-	<div>Menu: 
+	Menu: 
 	<a href="index.htm">Home</a> | 
 	<a href="schedule.htm">Schedule</a>
 	</div>
